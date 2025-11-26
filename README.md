@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaShankar
+- 👋 Hi, I’m @AdityaShankar.
 
 <!---
 AdityaShankarQQ/AdityaShankarQQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
