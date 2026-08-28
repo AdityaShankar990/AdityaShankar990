@@ -70,10 +70,9 @@
 <img
 src="https://awesome-github-stats.azurewebsites.net/user-stats/AdityaShankar990?cardType=level-alternate&Border=DD272700&Background=00000000&Text=607DA5"
 alt="Aditya Shankar GitHub Stats"
-width="500">
-
-<br>
-
+width="500"
+height="200">
+<!--
 ## Contribution Graph
 
 <img
@@ -81,5 +80,4 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaShanka
 width="100%"
 alt="Aditya Shankar's GitHub Activity Graph"
 />
-
-</div>
+-->
