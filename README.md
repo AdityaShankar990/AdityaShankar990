@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/GIT.png" alt="Aditya Shankar Banner" width="100%">
+<img src="./assets/adi_banner.svg" alt="Aditya Shankar Banner" width="100%">
 
 <br>
 
-## Tech Stack
+<!--## Tech Stack
 
 ### Programming
 
@@ -72,7 +72,7 @@ src="https://awesome-github-stats.azurewebsites.net/user-stats/AdityaShankar990?
 alt="Aditya Shankar GitHub Stats"
 width="500"
 height="200">
-<!--
+
 ## Contribution Graph
 
 <img
